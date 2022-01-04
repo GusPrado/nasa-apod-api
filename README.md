@@ -17,5 +17,5 @@ A Vanilla JS app to consume NASA API public available pictures.
 
 ## Images
 
-<img src="images/img1.png" width="200">
-<img src="images/img2.png" width="210">
+<img src="images/img1.png" width="600">
+<img src="images/img2.png" width="600">
